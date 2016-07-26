@@ -1,0 +1,2 @@
+# theano
+For learning python
